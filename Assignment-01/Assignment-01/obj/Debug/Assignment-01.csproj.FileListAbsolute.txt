@@ -1,0 +1,7 @@
+C:\Users\aksha\source\repos\Assignment-01\Assignment-01\bin\Debug\Assignment-01.exe.config
+C:\Users\aksha\source\repos\Assignment-01\Assignment-01\bin\Debug\Assignment-01.exe
+C:\Users\aksha\source\repos\Assignment-01\Assignment-01\bin\Debug\Assignment-01.pdb
+C:\Users\aksha\source\repos\Assignment-01\Assignment-01\obj\Debug\Assignment-01.csproj.AssemblyReference.cache
+C:\Users\aksha\source\repos\Assignment-01\Assignment-01\obj\Debug\Assignment-01.csproj.CoreCompileInputs.cache
+C:\Users\aksha\source\repos\Assignment-01\Assignment-01\obj\Debug\Assignment-01.exe
+C:\Users\aksha\source\repos\Assignment-01\Assignment-01\obj\Debug\Assignment-01.pdb
